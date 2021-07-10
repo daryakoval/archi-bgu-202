@@ -1,0 +1,2 @@
+-rw-rw-r-- 1 darya darya 14241 May 19 10:03 task4.c
+-rw-r--r-- 1 darya darya 22764 May 19 10:04 task4.o
